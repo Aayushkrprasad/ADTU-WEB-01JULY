@@ -12,3 +12,8 @@ function hello(){
 }
 
 hello(); // hellooo
+
+
+//hoisting
+
+// only declartion part of variables and full function goes to top 

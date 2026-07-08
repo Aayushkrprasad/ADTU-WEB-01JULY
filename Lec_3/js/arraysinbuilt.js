@@ -3,25 +3,16 @@ var a = [1,2,3,4];
 console.log(a);
 
 //push
-
 a.push(5);
-
 console.log(a);
-
 
 //pop
-
 a.pop();
-
 console.log(a);
-
 
 //unshift -> add element at the ebgin of the array
-
 a.unshift(0);
-
 console.log(a);
-
 
 // shift
 a.shift();

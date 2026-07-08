@@ -15,3 +15,6 @@ console.log("rollno" , student.Roll_no);
 
 
 console.log("Name", student["name"]);
+
+
+//create an object of an employee and print all values using dot operator

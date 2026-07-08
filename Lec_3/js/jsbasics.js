@@ -21,3 +21,8 @@ while(i<=30){
     console.log(i);
     i++;
 }
+
+
+// print all no from 1 to 100
+// print all even from 1 to 100
+// print all odd from 1 to 100
