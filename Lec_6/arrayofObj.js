@@ -22,25 +22,25 @@
 
 
 
-let myarr = [
-    {
-        langname: "C++",
-        langext: "cpp"
-    },
-    {
-        langname: "javascript",
-        langext: "js"
-    },
-    {
-        langname: "java",
-        langext: "java"
-    },
-    {
-        langname: "Python",
-        langext: "py"
-    }
-]
+// let myarr = [
+//     {
+//         langname: "C++",
+//         langext: "cpp"
+//     },
+//     {
+//         langname: "javascript",
+//         langext: "js"
+//     },
+//     {
+//         langname: "java",
+//         langext: "java"
+//     },
+//     {
+//         langname: "Python",
+//         langext: "py"
+//     }
+// ]
 
-myarr.forEach((item)=>{
-    console.log(item.langext);
-})
+// myarr.forEach((item)=>{
+//     console.log(item.langext);
+// })
