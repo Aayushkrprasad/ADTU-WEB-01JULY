@@ -28,6 +28,7 @@ const promiseTwo = new Promise((res,rej)=>{
 
 promiseTwo.then((user)=>{
     console.log(user);
+    
 }).catch((error)=>{
     console.log(error);
 })
